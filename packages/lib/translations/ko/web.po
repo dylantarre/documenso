@@ -4120,10 +4120,6 @@ msgstr "이미 확인된 이메일입니다."
 msgid "Email already exists"
 msgstr "이메일이 이미 존재합니다."
 
-#: apps/remix/app/components/general/direct-template/direct-template-configure-form.tsx
-msgid "Email cannot already exist in the template"
-msgstr "이 이메일은 템플릿에 이미 존재할 수 없습니다"
-
 #: apps/remix/app/routes/_unauthenticated+/verify-email.$token.tsx
 msgid "Email Confirmed!"
 msgstr "이메일이 확인되었습니다!"

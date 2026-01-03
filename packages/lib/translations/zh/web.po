@@ -4120,10 +4120,6 @@ msgstr "邮箱已确认"
 msgid "Email already exists"
 msgstr "邮箱已存在"
 
-#: apps/remix/app/components/general/direct-template/direct-template-configure-form.tsx
-msgid "Email cannot already exist in the template"
-msgstr "该邮箱不能已在模板中存在"
-
 #: apps/remix/app/routes/_unauthenticated+/verify-email.$token.tsx
 msgid "Email Confirmed!"
 msgstr "邮箱已确认！"

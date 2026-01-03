@@ -4120,10 +4120,6 @@ msgstr "E-mail déjà confirmé"
 msgid "Email already exists"
 msgstr "L'e-mail existe déjà"
 
-#: apps/remix/app/components/general/direct-template/direct-template-configure-form.tsx
-msgid "Email cannot already exist in the template"
-msgstr "L'e-mail ne peut déjà exister dans le modèle"
-
 #: apps/remix/app/routes/_unauthenticated+/verify-email.$token.tsx
 msgid "Email Confirmed!"
 msgstr "Email confirmé !"
